@@ -1,4 +1,4 @@
-/*********** Global Section **********/
+
 
 * {
     margin: 0;
@@ -13,7 +13,6 @@ body {
 }
 
 
-/*********** Navbar Section Start ***********/
 
 .navbar-inverse {
     background-image: linear-gradient( to right top, rgba(119, 21, 116, 0.8), rgba(34, 139, 34, 0.8));
@@ -35,11 +34,6 @@ body {
     color: white;
 }
 
-
-/************ Navbar Section End *************/
-
-
-/************ Header Section Start ************/
 
 .header {
     height: 95vh;
@@ -123,10 +117,6 @@ body {
 }
 
 
-/************** Header Section End **********/
-
-
-/*********** About Me Section Start ********/
 
 #about {
     padding-top: 40px;
@@ -164,10 +154,7 @@ body {
 }
 
 
-/*********** About Me Section End **********/
 
-
-/******** My Portfolio Section Start *******/
 
 #portfolio {
     background-image: linear-gradient( to left bottom, rgba(54, 10, 136, 0.8), rgba(139, 0, 0, 0.8)), url(https://images.unsplash.com/photo-1497892597262-2983614aa886?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=2051e3b8338218a0f163b9a6ab48bb84&auto=format&fit=crop&w=1350&q=80);
@@ -187,11 +174,6 @@ body {
     transform: scale(1.1);
 }
 
-
-/********* My Portfolio Section End ********/
-
-
-/********* Footer Section Start ************/
 
 footer #footer-above {
     background-image: linear-gradient( to left top, rgba(63, 10, 161, 0.8), rgba(139, 0, 0, 0.8)), url(https://images.unsplash.com/photo-1495277493816-4c359911b7f1?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=cea505d70dc1770c4dd470ff9715ac36&auto=format&fit=crop&w=1346&q=80);
@@ -289,4 +271,3 @@ footer h3 {
 }
 
 
-/********* Footer Section End **************/
